@@ -1,4 +1,13 @@
-# graphql-playlist
-All course files for the GraphQL tutorial playlist on The Net Ninja YouTube channel.
+# A React based Book list web app to demo grapql
 
-Node modules are not included in the course files. After download, run npm install to install the modules (client and server folders)
+## Technologies
+
+1. React
+
+2. Graphql
+
+3. Node.js
+
+4. Mongodb
+
+5. Express
